@@ -69,7 +69,7 @@ npm start
 ---
 
 ## 🔗 App is Live
-https://ekdant-dental-booking.vercel.app/
+[https://ekdant-dental-booking.vercel.app/](https://ekdant-dental-booking.vercel.app/)
 
 ## 🙏 Acknowledgements
 Made with 💖 by Shiven Singh
