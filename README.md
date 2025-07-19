@@ -54,7 +54,6 @@ https://ekdant-dental-booking.vercel.app/
 - CSS for styling (mobile responsive)
 - Vercel for deployment
 - Mongodb
-
 ---
 
 ## 📦 Installation (for local dev)
