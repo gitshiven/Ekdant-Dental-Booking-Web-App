@@ -1,14 +1,15 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "description": "Backend for Ekdant Dental Booking Web App",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
