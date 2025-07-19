@@ -1,9 +1,6 @@
 # Ek Dant Dental Care - Patient Appointment Booking System 🦷
 
 A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings and help the receptionist manage appointments efficiently.
-
-![Splash Screen](./screenshot.jpg)
-
 ---
 
 ## 🔧 Features
@@ -47,7 +44,7 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 ## 🔐 Receptionist Access
 
 > Username: _Receptionist_  
-> Password: `ekdant123`
+> Password: Only available on request
 
 ---
 
@@ -60,12 +57,17 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 - Vercel for deployment
 
 ---
+## 🖼️ Screenshots
 
-## 📸 Screenshots
+### Splash Screen
+![Dashboard Screenshot](screenshots/splashscreen.png)
 
-![Dashboard Screenshot](screenshots/Splashscreen.png)
+### Booking Page
 ![Booking Page Screenshot](screenshots/BookingPage.png)
+
+### Receptionist Dashboard
 ![Dashboard Screenshot](screenshots/Dashboard.png)
+
 
 ---
 
@@ -75,6 +77,7 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 cd client
 npm install
 npm start
+```
 ---
 
 ## 🔗 App is Live
