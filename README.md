@@ -34,10 +34,8 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 
 ---
 
-## 🚀 Live Demo
-
-**Frontend deployed on Vercel:**  
-🔗 [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+## 🚀 App is Live
+https://ekdant-dental-booking.vercel.app/
 
 ---
 
