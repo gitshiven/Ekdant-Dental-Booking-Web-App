@@ -57,16 +57,17 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 - Vercel for deployment
 
 ---
-## 🖼️ Screenshots
+## 📷 Screenshots
 
-### Splash Screen
-![Dashboard Screenshot](screenshots/splashscreen.png)
+### Splash Screen  
+![Splash Screen](./screenshots/Splashscreen.png)
 
-### Booking Page
-![Booking Page Screenshot](screenshots/BookingPage.png)
+### Booking Page  
+![Booking Page Screenshot](./screenshots/BookingPage.png)
 
-### Receptionist Dashboard
-![Dashboard Screenshot](screenshots/Dashboard.png)
+### Receptionist Dashboard  
+![Dashboard Screenshot](./screenshots/Dashboard.png)
+
 
 
 ---
