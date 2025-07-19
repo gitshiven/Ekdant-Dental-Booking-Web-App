@@ -58,21 +58,6 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 - Mongodb
 
 ---
-## 📷 Screenshots
-
-### Splash Screen  
-![Splash Screen](./screenshots/Splashscreen.png)
-
-### Booking Page  
-![Booking Page Screenshot](./screenshots/BookingPage.png)
-
-### Receptionist Dashboard  
-![Dashboard Screenshot](./screenshots/Dashboard.png)
-
-
-
-
----
 
 ## 📦 Installation (for local dev)
 
