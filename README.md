@@ -60,7 +60,7 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 ## 📷 Screenshots
 
 ### Splash Screen  
-![Splash Screen](./screenshots/Splashscreen.png)
+![Splash Screen](/screenshots/Splashscreen.png)
 
 ### Booking Page  
 ![Booking Page Screenshot](/screenshots/BookingPage.png)
