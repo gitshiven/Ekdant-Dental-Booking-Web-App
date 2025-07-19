@@ -63,10 +63,10 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 ![Splash Screen](./screenshots/Splashscreen.png)
 
 ### Booking Page  
-![Booking Page Screenshot](./screenshots/BookingPage.png)
+![Booking Page Screenshot](/screenshots/BookingPage.png)
 
 ### Receptionist Dashboard  
-![Dashboard Screenshot](./screenshots/Dashboard.png)
+![Dashboard Screenshot](/screenshots/Dashboard.png)
 
 
 
