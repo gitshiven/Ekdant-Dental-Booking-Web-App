@@ -55,6 +55,7 @@ A web app designed for **Dr. Raj Rani’s clinic** to simplify patient bookings 
 - React Toastify for alerts
 - CSS for styling (mobile responsive)
 - Vercel for deployment
+- Mongodb
 
 ---
 ## 📷 Screenshots
